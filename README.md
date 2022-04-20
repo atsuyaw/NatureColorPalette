@@ -4,7 +4,7 @@
 
 GIMP color palette optimized for color-blind individuals
 
-![image](https://user-images.githubusercontent.com/68371029/164118199-cfe09928-98c6-4064-989d-99bb2a0527dc.png)
+![image](./SocialPreview/banner.png)
 
 ## What's this?
 
