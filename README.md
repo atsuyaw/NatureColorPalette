@@ -2,7 +2,7 @@
 
 ![MIT license](https://img.shields.io/github/license/atsuyaw/NatureColorPalette) ![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?style=flat&logo=GIMP) ![Inkscape](https://img.shields.io/badge/-Inkscape-000.svg?style=flat&logo=Inkscape)
 
-GIMP color palette optimized for color-blind individuals
+Inkscape/GIMP color palette optimized for color-blind individuals
 
 ![image](https://user-images.githubusercontent.com/68371029/164118199-cfe09928-98c6-4064-989d-99bb2a0527dc.png)
 
