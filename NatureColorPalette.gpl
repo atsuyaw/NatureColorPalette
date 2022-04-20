@@ -1,0 +1,13 @@
+GIMP Palette
+Name: nature color palette
+# optimized for color-blind individuals
+# Ref https://doi.org/10.1038/nmeth.1618
+255 255 255 White
+000 000 000 Black
+230 159 000 Orange
+086 180 233 Sky blue
+000 158 115 Bluish green
+240 228 115 Yellow
+000 114 178 Blue
+213 094 000 Vermillion
+204 121 167 Reddish purple
