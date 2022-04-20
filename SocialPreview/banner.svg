@@ -14,6 +14,7 @@
    sodipodi:docname="banner.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -29,8 +30,8 @@
      units="px"
      inkscape:snap-page="true"
      inkscape:zoom="0.37460368"
-     inkscape:cx="898.2827"
-     inkscape:cy="419.10961"
+     inkscape:cx="903.62166"
+     inkscape:cy="509.87219"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -38,7 +39,49 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5785">
+      <stop
+         id="stop5787"
+         offset="0"
+         style="stop-color:#c0cdf9;stop-opacity:1" />
+      <stop
+         id="stop5789"
+         offset="1"
+         style="stop-color:#07092d;stop-opacity:0.28804347" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="60"
+       x2="58"
+       y1="35"
+       x1="33"
+       xlink:href="#WhiteTransparent-4"
+       id="shinySpecular-4"
+       gradientTransform="matrix(1.009184,0,0,1.009184,-0.3890738,-0.3831933)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="WhiteTransparent-4">
+      <stop
+         id="stop7606-4"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop7608-7"
+         offset="1"
+         style="stop-color:white;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="50"
+       x2="90"
+       y1="20"
+       x1="60"
+       xlink:href="#WhiteTransparent-4"
+       id="IcecapTip-6" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -117,12 +160,23 @@
        xml:space="preserve"
        style="font-size:29.6215px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.154278"
        x="168.8488"
-       y="95.297432"
+       y="80.923958"
        id="text2040"><tspan
          sodipodi:role="line"
          id="tspan2038"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.6215px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.154278"
          x="168.8488"
-         y="95.297432">Nature Color Palette</tspan></text>
+         y="80.923958">Nature Color Palette</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.1193px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:1.37448"
+       x="169.03435"
+       y="106.98141"
+       id="text2894"><tspan
+         sodipodi:role="line"
+         id="tspan2892"
+         style="text-align:center;text-anchor:middle;stroke-width:1.37448"
+         x="169.03435"
+         y="106.98141">For Inkscape and GIMP</tspan></text>
   </g>
 </svg>
