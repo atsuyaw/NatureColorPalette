@@ -23,14 +23,14 @@ This color palette is a GIMP/Inkscape color palette based on it.
 
 * Wong, B. Points of view: Color blindness. Nat Methods 8, 441 (2011). https://doi.org/10.1038/nmeth.1618
 
-## Instration for MS Office
+## Installation for MS Office
 1. Download the newest version in [release page](https://github.com/atsuyaw/NatureColorPalette/releases) and find out  `NatureColorPalette.xml`.
 1. Place the `*.xml` file into `%AppData%\Roaming\Microsoft\Templates\Document Themes\Theme Colors`
 1. Launch MS Word/Excel/PowerPoint and apply `NatureColorPalette` color theme.
 1. You can use the color palette:  
 ![palette](./ghMat/OpeOnPpt.png)
 
-## Instration for Inkscape
+## Installation for Inkscape
 1. Download the newest version in [release page](https://github.com/atsuyaw/NatureColorPalette/releases) and find out  `NatureColorPalette.gpl`.
 1. Place the `*.gpl` file into `%ProgramFiles%\Inkscape\share\inkscape\palettes`.
 1. Launch Inkscape and click `[View]` / `[Swatches...]` on the menu bar.
