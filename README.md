@@ -4,7 +4,7 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01.svg?style=flat&logo=MicrosoftOffice) ![Word](https://img.shields.io/badge/-Word-2B579A.svg?style=flat&logo=MicrosoftWord) ![Excel](https://img.shields.io/badge/-Excel-217346.svg?style=flat&logo=MicrosoftExcel) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A.svg?style=flat&logo=MicrosoftPowerPoint)  
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543.svg?style=flat&logo=GIMP) ![Inkscape](https://img.shields.io/badge/-Inkscape-000.svg?style=flat&logo=Inkscape)
 
-Inkscape/GIMP color palette optimized for color-blind individuals
+Microsoft Office and Inkscape/GIMP color palette optimized for color-blind individuals
 
 ![image](./ghMat/banner.png)
 
